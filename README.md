@@ -5,7 +5,7 @@
 - I’m interested to [All Programming Languages][a]
 - I’m currently learning [JavaScript][b],[PHP][c], and [C++][d] at the same time
 - I’m trying to be 1337
-- My Goals is to Get a job
+- My Goals is to kill mentally someone company
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://tenvy.github.io/tenvyweb/#gh-light-mode-only)
