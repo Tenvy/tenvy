@@ -3,9 +3,9 @@
 ## I'm a Student, Gamer, Spectator, and Programmer ig?
 
 - I’m interested to [All Programming Languages][a]
-- I’m currently learning [JavaScript][b],[PHP][c], and [C++][d] at the same time
+- I’m currently learning [Astro Build][b],[Qwik.js][c], and [C++][d] at the same time
 - I’m trying to be 1337
-- My Goals is to kill mentally someone company
+- My Goals is to make something useful for society
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://tenvy.github.io/tenvyweb/#gh-light-mode-only)
@@ -47,8 +47,8 @@
 
 [website]: https://tenvy.github.io/tenvyweb/
 [a]: https://en.wikipedia.org/wiki/Programming_language
-[b]: https://id.wikipedia.org/wiki/JavaScript
-[c]: https://id.wikipedia.org/wiki/PHP
+[b]: https://astro.build/
+[c]: https://qwik.builder.io/
 [d]: https://en.wikipedia.org/wiki/C%2B%2B
 [e]: https://code.visualstudio.com/
 [f]: https://id.wikipedia.org/wiki/HTML
