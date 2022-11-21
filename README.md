@@ -1,6 +1,6 @@
 # Hello, My Name is Rizky - aka [Tenvy][website] 👋 
 
-## I'm a Student, Gamer, Spectator, and Programmer ig?
+## I'm a Student, Gamer, Spectator, and Programmer fs?
 
 - I’m interested to [All Programming Languages][a]
 - I’m currently learning [Astro Build][b],[Qwik.js][c], and [C++][d] at the same time
