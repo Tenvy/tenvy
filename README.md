@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.theclick.gg/wp-content/uploads/2022/09/ganyu-and-kokomi-banner-featured.jpg" align="center" height="325" width="" />
+<img src="https://i1.sndcdn.com/visuals-000048596404-Av27QX-t1240x260.jpg" align="center" height="325" width="" />
 </div>  
 
 <br/>
