@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://www.theclick.gg/wp-content/uploads/2022/09/ganyu-and-kokomi-banner-featured.jpg" align="center" height="325" width="" />
 </div>  
-  
+
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tenvy&&style=flat-square" align="center" />
