@@ -8,6 +8,20 @@
 <img src="https://komarev.com/ghpvc/?username=tenvy&&style=flat-square" align="center" />
 </div>  
   
+<div>
+<a href = "https://anant-mishra1729.github.io/portfolio-site/">
+<img src = "https://img.icons8.com/3d-fluency/2x/about.png" width = "50" align = "left"/> 
+  </a>
+  
+
+<a href="https://github.com/settings/appearance#gh-light-mode-only">
+<img src = "https://cdn-icons-png.flaticon.com/512/4647/4647228.png" width = "50" align = "right"/>
+</a>
+<a href="https://github.com/settings/appearance#gh-dark-mode-only">
+<img src = "https://cdn-icons-png.flaticon.com/512/4647/4647037.png" width = "50" align = "right"/>
+</a>
+<br></br>
+</div>
 
 <br/>  
 
