@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="325" width="" />
+<img src="https://www.theclick.gg/wp-content/uploads/2022/09/ganyu-and-kokomi-banner-featured.jpg" align="center" height="325" width="" />
 </div>  
   
 
@@ -96,14 +96,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tenvy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenvy&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
