@@ -9,7 +9,7 @@
 </div>  
   
 <div>
-<a href = "https://tenvy.github.io/tenvyweb/">
+<a href = "">
 <img src = "https://img.icons8.com/3d-fluency/2x/about.png" width = "50" align = "left"/> 
   </a>
   
