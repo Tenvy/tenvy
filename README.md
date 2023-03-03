@@ -43,7 +43,7 @@
 - ❤️ Game Hacking
 
 
-- 🧠 For more insights plz checkout my [Portfolio](https://tenvy.github.io/tenvyweb/)  
+<!-- - 🧠 For more insights plz checkout my [Portfolio](https://tenvy.github.io/tenvyweb/)   -->
 
 <br/>  
 
