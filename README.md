@@ -32,7 +32,7 @@
 
 ## I'm Tenvy a FE developer 👨‍💻 & UI/UX Designer 🖼️ working remotely since 2022 🚀  
   
-- 🔭 I'm currently working on Tenjin-Style Fan Website.
+- 🔭 I'm currently working on TenvyNime
 
 - 🌱 I’m currently learning Everything!  
   
