@@ -32,9 +32,9 @@
 
 ## I'm Tenvy a FE developer 👨‍💻 & UI/UX Designer 🖼️ working remotely since 2022 🚀  
   
-- 🔭 I'm currently working on TenvyNime
+<!-- - 🔭 I'm currently working on  -->
 
-- 🌱 I’m currently learning Everything!  
+- 🌱 I’m currently learning PHP!  
   
 
 - ❓ Ask me about anything related to Technologies... and Programming Industry!  
