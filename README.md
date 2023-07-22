@@ -34,6 +34,8 @@
   
 <!-- - 🔭 I'm currently working on  -->
 
+- 🔭 I’m working on I.D.E
+
 - 🌱 I’m currently learning PHP!  
   
 
