@@ -34,7 +34,7 @@
   
 <!-- - 🔭 I'm currently working on  -->
 
-- 🔭 I’m working on <a target="_blank" href="https://github.com/KevinAdiwiguna/frontend-surabaya-ygy">I.D.E</a>
+- 🔭 I’m working on <a target="_blank" href="https://github.com/KevinAdiwiguna/frontend-surabaya-ygy">I.D.E</a> and <a target="_blank" href="https://github.com/tenvy/e-commerce-api">E-Commerce-API</a>
 
 - 🌱 I’m currently learning PHP!  
   
