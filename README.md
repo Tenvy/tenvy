@@ -65,14 +65,7 @@ Committed to the pursuit of perfection, I approach every project with meticulous
   
 
 <br/>  
-
+<div align="center">
 ![Profile views counter](https://komarev.com/ghpvc/?username=tenvy&&style=flat-square)  
+</div>
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
