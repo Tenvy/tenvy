@@ -50,7 +50,7 @@ Committed to the pursuit of perfection, I approach every project with meticulous
 
 
 ## Github Stats  
-<table style="border: none;"><tr><td valign="top"  width="50%">
+<table align="center"><tr><td valign="top"  width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tenvy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -61,9 +61,9 @@ Committed to the pursuit of perfection, I approach every project with meticulous
 </td></tr></table>  
 
 <br/>  
-
-  
-
 <br/>  
 
+<div align="center">
+  
 ![Profile views counter](https://komarev.com/ghpvc/?username=tenvy&&style=flat-square)  
+</div>
