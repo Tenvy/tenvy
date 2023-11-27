@@ -65,7 +65,5 @@ Committed to the pursuit of perfection, I approach every project with meticulous
   
 
 <br/>  
-<div align="center">
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=tenvy&&style=flat-square)  
-</div>
-  
