@@ -50,13 +50,13 @@ Committed to the pursuit of perfection, I approach every project with meticulous
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table style="border: none;"><tr><td valign="top"  width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tenvy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenvy&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenvy&hide_border=true&layout=compact" align="left" style="width: 90%"/>
 
 </td></tr></table>  
 
