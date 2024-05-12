@@ -21,9 +21,9 @@
 
 
 ### Hello, fellow developers!  
-I'm a detail-oriented Full Stack Web Developer with a passion for creating seamless user experiences.I leverage technologies like React.js, and Next.js to create dynamic and responsive applications. On the backend, I work with Node with frameworks such as Express. Proficient in database management with a focus on MySQL and MongoDB.
+I'm a Full Stack Web Developer specializing in frontend development with a keen attention to detail. I focus on building the visible parts of websites using React or Next.js. For backend development, I work with Node.js and Express, and I manage databases like MySQL and MongoDB.
 
-Committed to the pursuit of perfection, I approach every project with meticulous attention to detail, ensuring the delivery of high-quality code. I stay abreast of evolving best practices, viewing each project as an opportunity for continuous learning. Open to collaboration with the developer community, let's build amazing things together!  
+I take pride in crafting high-quality code for every project. Staying updated with the latest frontend and backend techniques is important to me. I'm eager to collaborate with other developers to create exceptional web solutions!
   
 
 <br/>  
